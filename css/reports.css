@@ -1,0 +1,82 @@
+.mainslogan{
+    font-size:70px;
+}
+
+.countboxrow{
+margin-right:0;
+padding-right: 0;
+}
+.numbercount{
+    font-size:50px;
+}
+.background{
+    max-width: 300px;
+}
+.tab{
+    text-align: center;
+   
+}
+.tablinks{
+    background-color: rgba(4, 138, 129, 1);
+    margin:10px 5px;
+}
+h2{
+    text-align: center;
+}
+/* tables css */
+#customers {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  /* #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  } */
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+
+    background-color:rgba(183, 182, 194, 1);
+    color: black;
+    font-size:20px;
+    font-weight: 200;
+  }
+
+  /* --- */
+  #reserves {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #reserves tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #reserves tr:hover {background-color: #ddd;}
+  
+  #reserves th {
+
+    background-color:rgba(183, 182, 194, 1);
+    color: black;
+    font-size:20px;
+    font-weight: 200;
+  }
+  /* car */
+  #cartable {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #cartable tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #cartable tr:hover {background-color: #ddd;}
+  
+  #cartable th {
+
+    background-color:rgba(183, 182, 194, 1);
+    color: black;
+    font-size:20px;
+    font-weight: 200;
+  }

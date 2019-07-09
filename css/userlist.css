@@ -1,0 +1,62 @@
+h1, h2{
+text-align: center;
+}
+
+/* dashboard-------------------------------------------------------------------- */
+.dashboard{
+    background-color: rgba(232, 237, 223, 1);
+    height: 100%;
+}
+.countbox{
+    background-color:white;
+    /* border: 1px black solid; */
+    height: 150px;
+    width: 170px;
+    margin: 20px 12px;
+    /* display: inline; */
+}
+.usericon{
+    text-align: center;
+ 
+}
+.fluid{
+    width:24px;
+    height: 28px;
+}
+/* ------------------------------------------------------------------------------------- */
+.bannerpic{
+   max-width: 800px;
+}
+.banner{
+    width:550px;
+    height: 350px;
+}
+/* -tab---------------------------------------------------------------------------------- */
+.tab{
+    text-align: center;
+    margin-top:30px;
+    margin-bottom: 40px;
+}
+.tablinks{
+   
+    margin-left: 15px;
+    margin-left: 20px;
+    
+}
+/* admin list*/
+                                            
+/* .adminprofile{
+    text-align: center;
+    margin: 10px auto;
+}
+#adminrow{
+    text-align: center;
+    margin: 10px auto;
+} */
+#adminimoji{
+    width: 100px;
+}
+.buttonform{
+    display: inline;
+  
+}
